@@ -1,10 +1,10 @@
 /*
     TALLER 3 EDD 
-    MIEMBROS:       Josue Oliveros Berrios
-                    Angelo Gonzalez Lobo
+    MIEMBROS:       Josue 
+                    Angelo 
     FECHA:          domingo 14 de mayo 2023
     SECCION:        411
-    PROFESOR:       MAURO ALEX CASTILLO VALDES
+    PROFESOR:       MAURO CASTILLO
     LINK AL VDEO:   
  */
 
